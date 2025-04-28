@@ -1,5 +1,3 @@
-# Lesson 5
-
 #### How do I get there
 
 **a - In which country do you live?** I'm from Brazil <br>
@@ -175,6 +173,8 @@ i. **There is** a book on the bed.
 2. **Shoe store**: /ʃuː stɔːr/ – "Chiu stôr"
 
 3. **Church**: /tʃɜːrtʃ/ – "Tchãr-tch"
+
+ 
 
 ## Do it yourself in the class
 
